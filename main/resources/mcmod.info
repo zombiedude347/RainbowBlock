@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "rainbowblock",
+        "name": "RainbowBlock",
+        "description": "Adds a block which changes color when mined",
+        "version": "1.8-1.0",
+        "mcversion": "1.8",
+        "url": "http://minecraft.curseforge.com/mc-mods/235846-rainbow-block",
+        "updateUrl": "",
+        "authors": [
+            "Zombiedude347"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

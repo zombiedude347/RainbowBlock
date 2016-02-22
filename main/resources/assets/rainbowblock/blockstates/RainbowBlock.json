@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "color=0": { "model": "rainbowblock:blockRainbowBlack" },
+        "color=1": { "model": "rainbowblock:blockRainbowWhite" },
+        "color=2": { "model": "rainbowblock:blockRainbowRed" },
+        "color=3": { "model": "rainbowblock:blockRainbowYellow" },
+        "color=4": { "model": "rainbowblock:blockRainbowGreen" },
+        "color=5": { "model": "rainbowblock:blockRainbowCyan" },
+        "color=6": { "model": "rainbowblock:blockRainbowBlue" },
+        "color=7": { "model": "rainbowblock:blockRainbowMagenta" }
+    }
+}
